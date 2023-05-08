@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Dranzus}.${Dranzus})
 
 ### João Vieira / Dranzus - Comp. Sci student @ ESTG, Leiria, Portugal
 - Born to use Python, forced to learn C
