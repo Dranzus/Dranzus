@@ -4,7 +4,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dranzus&theme=onedark"/>
 </a>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### João Vieira / Dranzus - Comp. Sci student @ ESTG, Leiria, Portugal
 ### Born to use Python, forced to learn C
