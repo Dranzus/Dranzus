@@ -1,6 +1,6 @@
 ### João Vieira / Dranzus - Comp. Sci student @ ESTG, Leiria, Portugal
-## Born to use Python, forced to learn C
-## Future coder, current spaghetti writer
+- Born to use Python, forced to learn C
+- Future coder, current spaghetti writer
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
