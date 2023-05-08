@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 ### João Vieira / Dranzus - Comp. Sci student @ ESTG, Leiria, Portugal
 - Born to use Python, forced to learn C
 - Future coder, current spaghetti writer
